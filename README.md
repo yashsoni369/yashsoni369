@@ -25,10 +25,10 @@ I am a Full Stack IT consultant, with over 8+ Years of experience <img src="http
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsoni369&layout=compact&theme=light)](https://github.com/yashsoni369/github-readme-stats) -->
 
 <a href="https://github.com/yashsoni369">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsoni369&theme=light&count_private=true&layout=compact" width="205" alt="Yash's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsoni369&theme=default&show_icons=true&hide_border=false&layout=compact" width="205" alt="Yash's most used languages" />
 </a>
 <a href="https://github.com/yashsoni369">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsoni369&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Yash's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsoni369&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs](https://github-readme-stats.vercel.app/api?username=yashsoni369&theme=default&show_icons=true&hide_border=false&count_private=true" width="350" alt="Yash's github stats"/>
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
