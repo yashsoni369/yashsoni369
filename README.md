@@ -1,163 +1,84 @@
+<a href="https://yashsoni.dev"><img src="assets/header.svg" alt="Yash Soni: founder and AI engineer at Apex36 Technologies" width="100%" /></a>
+
 <div align="center">
 
-# Yash Soni
-
-**Senior Full Stack Architect | AI/ML Solution Builder | SaaS Product Engineer**
-
-[![LinkedIn](https://img.shields.io/badge/-yashsoni369-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashsoni369)
-[![Email](https://img.shields.io/badge/-yash.soni2737@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yash.soni2737@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-yashsoni.dev-000?style=flat&logo=vercel&logoColor=white)](https://yashsoni.dev)
+[![Portfolio](https://img.shields.io/badge/yashsoni.dev-0b1224?style=for-the-badge&logo=vercel&logoColor=white)](https://yashsoni.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashsoni369)
+[![Apex36](https://img.shields.io/badge/Apex36_Technologies-0ea5e9?style=for-the-badge&logoColor=white)](https://apex36tech.com)
+[![Email](https://img.shields.io/badge/yash%40apex36tech.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash@apex36tech.com)
 
 </div>
 
----
-
-### About
-
-Full Stack Architect with **8+ years** building production systems — from enterprise DevOps platforms to AI-powered SaaS products. Led teams of **10+ engineers**. Built GenAI infrastructure for US law firms that helped secure **$2M+ in VC funding**.
-
-Now freelancing as **Apex36** — shipping AI & SaaS solutions for clients in the US, UK, and Germany.
-
-```
-8+ years  ·  $2M+ funded  ·  10+ engineers led  ·  12+ products shipped
-```
-
----
-
-### What I Build
+A prototype is not the product. I take AI and SaaS products from demo to production for startups
+and agencies: RAG, AI agents, the platform underneath and the hardening that keeps it running.
+I have been shipping software since 2017, and since 2022 I run
+**[Apex36 Technologies](https://apex36tech.com)** from Mumbai, with clients in the US, UK and Germany.
 
 <div align="center">
 
-```
-  🤖 AI & GenAI                    🏗️ Full Stack SaaS                ☁️ Cloud & DevOps
-  ─────────────                    ────────────────                  ────────────────
-  RAG Pipelines                    Multi-Tenant Architecture         AWS · Azure · GCP
-  Vector Search                    React · Angular · Next.js         Docker · Kubernetes
-  AI Agents & Voice                Node.js · .NET · Python           CI/CD Pipelines
-  Document AI                      Microservices · APIs              Infrastructure as Code
-  Prompt Engineering               Real-time WebSockets              Monitoring & APM
-  OpenAI · Gemini · HuggingFace   MongoDB · PostgreSQL · Redis      Sagemaker · EKS · EC2
-```
+|  **9+ years** shipping  |  **12+ products** across 7 industries  |  **10-engineer** DevOps CoE led  |  **US · UK · DE** clients  |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
-<div align="center">
+## ✦ Featured work
 
-| | Domain | What I've Built |
-|:---:|--------|----------------|
-| ⚖️ | **Legal Tech** | AI document search platform — $2M+ funded, 10+ US law firms |
-| 🏥 | **Healthcare** | Hospital contract management, clinical AI automation |
-| 🎓 | **EdTech** | AI Avatar language learning — 10+ UK schools in 3 months |
-| 📞 | **Voice AI** | Inbound voice assistant for multi-industry use cases |
-| 🎨 | **Creative AI** | Brand-aligned image generation from context |
-| 📊 | **Sales Intel** | Insights from calls, emails & Slack via vector search |
-| 🔧 | **DevOps** | Enterprise APM & DevOps platforms — led 10+ engineer team |
+<p align="center">
+  <a href="https://github.com/yashsoni369/cc-logins"><img src="assets/card-cc-logins.svg" alt="CC Logins: quota visibility and account switching for Claude Code. Rust and Tauri 2, open source." width="32%" /></a>
+  <a href="https://github.com/yashsoni369/criccommander"><img src="assets/card-criccommander.svg" alt="CricketCommander: three AI agents react to every ball of a live IPL match. Built at the GDG Agentic Premier League hackathon." width="32%" /></a>
+  <a href="https://github.com/wavect/semaprax/pulls?q=is%3Apr+author%3Ayashsoni369+is%3Amerged"><img src="assets/card-semaprax.svg" alt="Open source: 7 merged PRs in wavect/semaprax, a Rust compiler." width="32%" /></a>
+</p>
 
-</div>
+## ✦ Products we run at Apex36
 
----
+| | Product | What it does |
+|:---:|---|---|
+| 🎨 | **[BrandGen](https://getbrandgen.com)** | Brand-aligned AI image and content generation. Live since January 2026. |
+| 📞 | **Convo AI** | Inbound AI voice assistant. |
+| 🔑 | **[CC Logins](https://github.com/yashsoni369/cc-logins)** | Apex36's first open-source product: a tray app for people who run Claude Code on more than one account. |
 
-### Featured Projects
+## ✦ Built for clients
 
-| Project | What It Does | Impact |
-|---------|-------------|--------|
-| **DecoverAI** | AI legal document search for US law firms | **$2M+ funded**, 10+ firms deployed |
-| **Speakology AI** | AI Avatar language learning for UK schools | **10+ schools** in 3 months, bootstrapped |
-| **Convo AI** | Inbound AI Voice Assistant, multi-industry | Production voice AI platform |
-| **BrandGen** | Brand-aligned AI image generator | Context-aware image generation |
-| **AI Tutor** | AI language teacher for schools | Adaptive learning + real-time practice |
-| **Infinity DevOps** | Enterprise DevOps platform (LTI Mindtree) | Led **10+ engineer** team |
-| **Mappie AI** | Requirements → dev-ready stories with AI | 1 year from idea to production |
-| **Vectro AI** | Sales intelligence from calls & emails | Vector search + OpenAI |
+| | Work | What I built | Result |
+|:---:|---|---|---|
+| ⚖️ | **DecoverAI** | AI document search for US law firms: RAG on Pinecone and MongoDB, running on EKS | In use at **10+ US law firms**, built over 13 months |
+| 🎓 | **AI avatar language app** | Avatar-led language practice for UK schools | **10+ UK schools** in the first 3 months |
+| 🧩 | **[Mappie AI](https://mappie.ai)** | Turns requirements into dev-ready user stories | Live product |
+| 📊 | **Vectro AI** | Sales intelligence from calls, email and Slack, on vector search | Shipped |
+| 🚗 | **US electric-vehicle manufacturer** | Serverless AWS automation feeding SAP and Coupa workflows | Shipped |
+| 🔧 | **Infinity DevOps** at LTIMindtree | Tech lead on an internal DevOps platform | Led a **10-engineer** Center of Excellence across AWS and GCP |
 
----
+## ✦ Open source
 
-### Tech Stack
+- **[wavect/semaprax](https://github.com/wavect/semaprax/pulls?q=is%3Apr+author%3Ayashsoni369+is%3Amerged)**: 7 merged PRs in an agent-native systems language written in Rust. I measured how often one authoring mistake produced several errors (14 of 60 probes) and fixed the verifier so it reports one; I also repaired failing grammar, clippy and test gates.
+- **[ThatOneCheat/list-coding-agents](https://github.com/ThatOneCheat/list-coding-agents/pull/3)**: faster version probe, fewer false positives, tests and CI.
+- **[cc-logins](https://github.com/yashsoni369/cc-logins)**: Rust and Tauri 2, MIT licensed.
+- **[CricketCommander](https://github.com/yashsoni369/criccommander)**: three Gemini agents (a statistician, a Hinglish hype-man and a predictor) react to every ball of a live IPL match. Built at GDG's Agentic Premier League hackathon in Mumbai.
 
-<div align="center">
+## ✦ Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,rust&perline=12" alt="TypeScript, JavaScript, Python, C#, Rust" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,nodejs,dotnet,fastapi&perline=12" alt="React, Next.js, Angular, Tailwind, Node.js, .NET, FastAPI" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,azure,gcp,docker,kubernetes,githubactions,vercel&perline=12" alt="PostgreSQL, MongoDB, Redis, AWS, Azure, GCP, Docker, Kubernetes, GitHub Actions, Vercel" />
+</p>
 
-</div>
+<p align="center">
+  <b>AI:</b> RAG pipelines · vector search · agents and tool use · voice AI · document AI · OpenAI · Claude · Gemini · Hugging Face
+</p>
 
----
+## ✦ Activity
 
-### Certifications
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashsoni369/yashsoni369/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashsoni369/yashsoni369/output/snake-light.svg" />
+  <img alt="Yash Soni's contribution graph, eaten by a snake" src="https://raw.githubusercontent.com/yashsoni369/yashsoni369/output/snake-light.svg" width="100%" />
+</picture>
 
 <div align="center">
 
-![CKAD](https://img.shields.io/badge/-CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS_CCP-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+**Have a prototype that needs to become a product?**
 
-**Kubernetes Application Developer** · **Azure Fundamentals** · **AWS Cloud Practitioner**
-
-</div>
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-<!-- Contribution graph — works reliably, no broken images -->
-<img src="https://ghchart.rshah.org/0ea5e9/yashsoni369" alt="Yash's GitHub contribution graph" width="700" />
-
-<br/><br/>
-
-<!-- Streak stats — using the reliable fork -->
-<img src="https://streak-stats.demolab.com/?user=yashsoni369&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9" width="500" />
-
-</div>
-
-<details>
-<summary><b>Expand: Language & Repo Stats</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsoni369&layout=compact&theme=transparent&hide_border=true&langs_count=10" height="180" />
-</div>
-</details>
-
----
-
-### What I Bring to the Table
-
-```
-Architecture    ████████████████████  End-to-end system design
-AI/ML           ██████████████████░░  RAG, agents, voice AI, embeddings
-Frontend        ████████████████████  React, Angular, Next.js
-Backend         ████████████████████  Node.js, .NET, Python, FastAPI
-DevOps          ████████████████░░░░  K8s, Docker, AWS, CI/CD
-Leadership      ██████████████████░░  10+ engineer teams, agile
-```
-
----
-
-<div align="center">
-
-**Available for freelance & contract work worldwide**
-
-Let's build something great together.
-
-[![Hire Me](https://img.shields.io/badge/-Let's_Talk-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash.soni2737@gmail.com)
+[![Let's talk](https://img.shields.io/badge/Let%27s_talk-yash%40apex36tech.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash@apex36tech.com)
 
 </div>
